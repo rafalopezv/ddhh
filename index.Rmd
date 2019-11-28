@@ -1,0 +1,35 @@
+---
+title: "demo"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: readable
+    orientation: rows
+---
+
+```{r setup, include=FALSE}
+knitr::opts_knit$set(self.contained = T)
+library(readr)
+```
+
+
+Geografía de las y los difuntos 
+=====================================  
+
+<iframe frameBorder="0" src="demo/muertes_municipo.html" width="100%" height="100%" allowtransparency="true"></iframe>
+
+Temporalidad de las y los difuntos 
+=====================================  
+
+<iframe frameBorder="0" src="demo/muertes_año.html" width="100%" height="100%" allowtransparency="true"></iframe>
+
+¿En que preisdencia hay mas difuntos?
+=====================================  
+
+<iframe frameBorder="0" src="demo/muertes_presidencia.html" width="100%" height="100%" allowtransparency="true"></iframe>
+
+Sexo de las y los difuntos
+=====================================  
+
+<iframe frameBorder="0" src="demo/muertes_sexo.html" width="100%" height="100%" allowtransparency="true"></iframe>
+
+

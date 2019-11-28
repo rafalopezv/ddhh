@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574913207139.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "120133639",
+    "id" : "8669DE2E",
+    "lastKnownWriteTime" : 1574912938,
+    "last_content_update" : 1574912938,
+    "path" : "~/Dropbox/ddhh/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
