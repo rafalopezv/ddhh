@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574909420166.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2923681333",
+    "id" : "445BB4FD",
+    "lastKnownWriteTime" : 1574912496,
+    "last_content_update" : 1574912496661,
+    "path" : "~/Dropbox/ddhh/scripts_rafa/demo.R",
+    "project_path" : "scripts_rafa/demo.R",
+    "properties" : {
+        "cursorPosition" : "112,0",
+        "scrollLine" : "98",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

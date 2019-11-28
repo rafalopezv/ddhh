@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574909447062.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2C6E3BE3",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1574909447062,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "AD000150",
+        "caption" : "title",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=AD000150",
+        "displayedObservations" : "9",
+        "environment" : "_rs_no_env",
+        "expression" : "c(\"Víctor Paz Estenssoro\", \"Hugo Banzer \", \"Gonzalo Sanchez de Lozada \",  \"Evo Morales\", \"Hernán Siles Zuazo\", \"Carlos Diego Mesa Gisbert\",  \"Jaime Paz Zamora\", \"Jorge Quiroga\", NA)",
+        "object" : "",
+        "preview" : "0",
+        "totalObservations" : "9",
+        "variables" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
