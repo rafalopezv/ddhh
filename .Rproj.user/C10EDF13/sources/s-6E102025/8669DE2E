@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "120133639",
+    "hash" : "3444916509",
     "id" : "8669DE2E",
-    "lastKnownWriteTime" : 1574912938,
-    "last_content_update" : 1574912938,
+    "lastKnownWriteTime" : 1574913479,
+    "last_content_update" : 1574913479048,
     "path" : "~/Dropbox/ddhh/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "24,26",
+        "scrollLine" : "9"
     },
     "read_only" : false,
     "read_only_alternatives" : [
